@@ -7,7 +7,6 @@ import 'model/recipe_hive.dart';
 import 'provider/category_provider.dart';
 import 'provider/home_provider.dart';
 import 'provider/search_provider.dart';
-import 'view/home/home_view.dart';
 import 'package:filipino_recipe/splash_screen.dart';
 
 Future<void> main() async {
